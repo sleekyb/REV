@@ -1,0 +1,13 @@
+@media (min-width: 474px) and (max-width: 540px) {
+  section {
+    margin-left: 22px;
+  }
+}
+
+@media (min-width:541px) {
+  section {
+    margin-left: 40px;
+    position: absolute;
+  }
+}
+
