@@ -125,3 +125,10 @@ ref-button {
   }
 }
 
+.ref-button.preview-toggle {
+  /*width: 40%;*/
+  color: #ffffff;
+  background-color: #343434;
+  border-radius: 20px;
+}
+
